@@ -1,0 +1,20 @@
+name: myenv
+channels:
+  - conda-forge
+dependencies:
+  - altair
+  - hdbscan
+  - ipykernel
+  - ipywidgets
+  - numpy
+  - pandas
+  - python=3.12
+  - rdkit
+  - scikit-learn
+  - seaborn
+  - shap
+  - umap-learn
+  - xgboost
+  - ydata-profiling
+
+prefix: "/home/kevzhu14/miniforge3/envs/myenv"
