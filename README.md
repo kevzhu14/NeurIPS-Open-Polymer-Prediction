@@ -1,4 +1,4 @@
-# **CHE1147 Term Project: NeurIPS Open Polymer Prediction Kaggle Competition**
+# **NeurIPS Open Polymer Prediction Kaggle Competition (CHE1147 Term Project)**
 
 
 By: Charles Chang, Aakash Kanagala, Kevin Zhu
